@@ -73,7 +73,7 @@
 
 ### 🧑‍💻 Acerca de:
 - Mi trayectoria abarca una sólida experiencia en el diseño y desarrollo de aplicaciones web y móviles que combinan eficiencia, usabilidad y diseño atractivo. Me complace haber trabajado con tecnologías como Node.js, Express.js, MongoDB, SQL y Kotlin, entre otras. Además, he colaborado en proyectos que van desde sitios web modernos hasta aplicaciones nativas para Android. Mi objetivo es aprovechar mis habilidades y pasión para enfrentar desafíos tecnológicos y transformar ideas en soluciones funcionales. Siempre estoy ansioso por aprender y abrazar nuevas tendencias en el mundo del desarrollo. Por lo cual puedo aprovechar mis habilidades y experiencia en contribuir con los desarrollos de la empresa, aportando ideas, mejorando procesos, apoyando a mis compañeros de trabajo, entre muchas cosas más.
-- Mi objetivo es aprovechar mis habilidades y pasión para enfrentar desafíos tecnológicos y transformar ideas en soluciones funcionales. Siempre estoy ansioso por aprender y abrazar nuevas tendencias en el mundo del desarrollo. ¿Tienes una idea emocionante en mente o estás buscando un desarrollador comprometido para tu equipo? ¡No dudes en conectarte conmigo!
+- ¿Tienes una idea emocionante en mente o estás buscando un desarrollador comprometido para tu equipo? ¡No dudes en conectarte conmigo!
 
 <!--
 ### 📚 I'm currently learning:
