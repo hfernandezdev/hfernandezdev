@@ -2,11 +2,12 @@
 
 ```shell
  { “name” : “Humberto Gabriel Fernández Moreno”,
-   “role” : “Full Stack Developer”,
+   “role” : “Full Stack Developer | Mobile Developer”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/hfernandezdev/", 
-      "Resume"   : "https://drive.google.com/file/d/1AmpX0SHCAk8Sa3IyqcH16JFa2XtbWOq5/view?usp=sharing",
+      "Linkedin" : "https://www.linkedin.com/in/hfernandezdev/",
+      "Resume"   : "https://linktr.ee/hfernandezdev/",
+      "CV"       : "https://drive.google.com/file/d/1AmpX0SHCAk8Sa3IyqcH16JFa2XtbWOq5/view?usp=sharing",
       "Email"    : "humbertof44@gmail.com"
      }
  }
