@@ -5,7 +5,7 @@
    “role” : “Full Stack Developer”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/humberto-gabriel-fern%C3%A1ndez-moreno-1304b78b/", 
+      "Linkedin" : "https://www.linkedin.com/in/hfernandezdev/", 
       "Resume"   : "https://drive.google.com/file/d/1AmpX0SHCAk8Sa3IyqcH16JFa2XtbWOq5/view?usp=sharing",
       "Email"    : "humbertof44@gmail.com"
      }
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> -->
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 <h4>Tools & Technologies</h4>
 <p>
@@ -81,7 +81,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertof44&theme=radical&card_width=450em)](https://github.com/humbertof44/humbertof44/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertof44&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfernandezdev&theme=radical&card_width=450em)](https://github.com/hfernandezdev/hfernandezdev/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hfernandezdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
